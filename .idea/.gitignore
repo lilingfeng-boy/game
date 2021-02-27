@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../game\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\L解说\java\game\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
